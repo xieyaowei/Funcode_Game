@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1687778758 source:f:\计算机实践课程资料2023\04_funcode平台(已经安装直接打开)\funcode平台安装\funcodewin10\games\vampiresurvivor\sourcecode\icon.rc
+
+1688349658 source:f:\计算机实践课程资料2023\04_funcode平台(已经安装直接打开)\funcode平台安装\funcodewin10\games\vampiresurvivor\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonAPI.h"
+	"LessonX.h"
+
+1687778884 f:\计算机实践课程资料2023\04_funcode平台(已经安装直接打开)\funcode平台安装\funcodewin10\games\vampiresurvivor\sourcecode\header\commonapi.h
+	<windows.h>
+
+1687778883 f:\计算机实践课程资料2023\04_funcode平台(已经安装直接打开)\funcode平台安装\funcodewin10\games\vampiresurvivor\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1688313352 source:f:\计算机实践课程资料2023\04_funcode平台(已经安装直接打开)\funcode平台安装\funcodewin10\games\vampiresurvivor\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"LessonX.h"
+
+1687778758 source:f:\mygames\vampiresurvivor\sourcecode\icon.rc
+
+1689093069 source:f:\mygames\vampiresurvivor\sourcecode\src\main.cpp
+	"CommonAPI.h"
+	"LessonX.h"
+
+1687778884 f:\mygames\vampiresurvivor\sourcecode\header\commonapi.h
+	<windows.h>
+
+1687778883 f:\mygames\vampiresurvivor\sourcecode\header\lessonx.h
+	<Windows.h>
+
+1689172948 source:f:\mygames\vampiresurvivor\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonAPI.h"
+	"LessonX.h"
+	<math.h>
+	<mmsystem.h>
+	<windows.h>
+
